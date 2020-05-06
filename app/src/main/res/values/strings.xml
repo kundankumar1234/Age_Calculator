@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="current_date">Current Date</string>
+</resources>
